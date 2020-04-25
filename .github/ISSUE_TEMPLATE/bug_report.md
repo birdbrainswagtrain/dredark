@@ -1,38 +1,33 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+name: Bug Report
+about: Use this to report a bug.
+labels: bug
 ---
+Before you continue, please try to check:
+- This is a bug. For requests, use the feature template.
+- This bug has not already been reported. Please check closed issues: TODO LINK
+- This bug is still occurs on the test server.
+- This is not a generic complaint about lag, a complaint about another player or group, or a request for ship/item/account recovery.
+- This bug is not a security vulnerability and is not seriosuly game-breaking (i.e. item duplication).
+  If this is the case, email me instead: adam@cogg.rocks
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+*Following this template exactly is not required, and you may delete all of this extra text,
+but submitting low-quality reports will reduce the likelyhood that they are taken seriously.*
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+---------------------------------------------------
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### Description
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+*Please describe the bug in as much detail as you can. What happens, and how does that differ from what you expect to happen?
+Include the steps that someone could take to reproduce the bug.
+Including pictures can be helpful, but don't just post a picture with no context.*
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+### Other Information
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+*Answering these questions is not required, but can be very helpful.*
 
-**Additional context**
-Add any other context about the problem here.
+- If the bug seems to be an issue with client, what web browser are you using?
+
+- If the bug seems to be an issue with a specific server, what server did it occur in and when did it occur?
+
+- If the bug seems to be an issue with a ship, what is the ship called and what is its hex code?
