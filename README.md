@@ -1,2 +1,3 @@
 # dredark
-Issue tracker for https://drednot.io/
+[Issue tracker](https://github.com/birdbrainswagtrain/dredark/issues) for https://drednot.io/
+
