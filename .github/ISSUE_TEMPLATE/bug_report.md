@@ -1,6 +1,7 @@
 ---
 name: Bug Report
 about: Use this to report a bug.
+title: ENTER A TITLE HERE
 labels: bug
 ---
 Before you continue, please try to check:
