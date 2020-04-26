@@ -13,9 +13,9 @@ Before you continue, please try to check:
 - This bug is not a security vulnerability and is not seriosuly game-breaking (i.e. item duplication).
   If this is the case, email me instead: adam@cogg.rocks
 
-### Please delete this line and everything above it if you have read and understand.
+#### Please delete this line and everything above it if you have read and understand.
 
-### Description
+#### Description
 
 *Please describe the bug in as much detail as you can. What happens,
 and how does that differ from what you expect to happen?
