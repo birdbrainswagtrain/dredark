@@ -8,7 +8,7 @@ labels: bug
 Before you continue, please try to check:
 - This is a bug. For requests, use the feature template.
 - This bug has not already been reported. Please check closed issues: https://github.com/birdbrainswagtrain/dredark/issues?q=is%3Aissue
-- This bug is still occurs on the test server.
+- This bug is still exists. If possible check if it occurs on the test server.
 - This is not a generic complaint about lag, a complaint about another player or group, or a request for ship/item/account recovery.
 - This bug is not a security vulnerability and is not seriosuly game-breaking (i.e. item duplication).
   If this is the case, email me instead: adam@cogg.rocks
