@@ -16,4 +16,5 @@ Before you continue, please try to check:
 
 *Please explain what you want added to the game. How do you think this would improve the game?
 Getting caught up in questions of costs, damage values, and other minute details isn't recommended.
-Posting concept art is okay, but isn't necessary or even encouraged.*
+Posting concept art is okay, but isn't necessary or even encouraged.
+Delete this text and replace it with your description.*
