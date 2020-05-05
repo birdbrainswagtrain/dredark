@@ -30,3 +30,9 @@ Delete this text and replace it with your description.*
 - What server did the bug occur in and when did it occur?
 
 - What ship did the bug occur on and what is it's {hex code}?
+
+---
+
+*Place an X (no spaces) between the brackets to confirm that you have read the line below.*  
+- [ ] **I have searched the closed and open issues to make sure that this problem has not already been reported.**
+
