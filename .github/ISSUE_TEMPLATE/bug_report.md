@@ -6,6 +6,7 @@ labels: bug
 ---
 
 Before you continue, please try to check:
+- This is not a ban appeal. Usually I'm not too happy to deal with banned users in the first place, but shitting up this tracker with questions about bans will get you permenantly blocked from it and every other means of contacting me.
 - This is a bug. For requests, use the feature template.
 - This bug has not already been reported. Please check closed issues: https://github.com/birdbrainswagtrain/dredark/issues?q=label%3Abug
 - This bug is still exists. If possible check if it occurs on the test server.
